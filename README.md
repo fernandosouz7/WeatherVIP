@@ -25,7 +25,7 @@ O WeatherVIP é um aplicativo de previsão do tempo que permite aos usuários ve
 1. Clone este repositório em seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/weather-viper.git
+git clone (https://github.com/fernandosouz7/WeatherVIP)
 ```
 
 2. Navegue até o diretório do projeto
